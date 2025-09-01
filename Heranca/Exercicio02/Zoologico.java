@@ -17,9 +17,6 @@ public class Zoologico {
 
         for(Animal animal : a1){
             System.out.println(animal.emitirSom());
-        }
-
-
-        
+        } 
     }
 }
