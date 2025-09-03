@@ -1,4 +1,4 @@
-package Lambdas;
+package Lambdas.EstudoTeorico.InterfaceFuncional;
 
 import java.util.function.BinaryOperator;
 

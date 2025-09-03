@@ -1,4 +1,4 @@
-package Lambdas;
+package Lambdas.EstudoTeorico.InterfaceFuncional;
 
 public class Multiplicar implements Calculo {
     

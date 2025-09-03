@@ -1,4 +1,4 @@
-package Lambdas;
+package Lambdas.EstudoTeorico.InterfaceFuncional;
 
 @FunctionalInterface
 public interface Calculo {

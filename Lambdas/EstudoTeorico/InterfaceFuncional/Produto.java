@@ -1,4 +1,4 @@
-package Lambdas.InterfaceFuncional;
+package Lambdas.EstudoTeorico.InterfaceFuncional;
 
 public class Produto {
 
@@ -10,5 +10,9 @@ public class Produto {
         this.nome = nome;
         this.preco = preco;
         this.desconto = desconto;
+    }
+
+    public String toString(){
+        return this.nome;
     }
 }

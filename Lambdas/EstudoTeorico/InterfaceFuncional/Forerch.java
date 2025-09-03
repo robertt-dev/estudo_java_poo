@@ -1,7 +1,6 @@
-package Lambdas;
+package Lambdas.EstudoTeorico.InterfaceFuncional;
 
 import java.util.List;
-import java.util.function.Consumer;
 import java.util.Arrays;
 
 public class Forerch {

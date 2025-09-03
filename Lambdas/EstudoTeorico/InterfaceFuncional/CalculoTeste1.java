@@ -1,4 +1,4 @@
-package Lambdas;
+package Lambdas.EstudoTeorico.InterfaceFuncional;
 
 public class CalculoTeste1 {
     public static void main(String args[]) {
